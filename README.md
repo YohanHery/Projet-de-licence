@@ -15,3 +15,8 @@ Projets réalisé lors des études en licence
 - **projetjaccard**: calcul de la distance de Jaccard réalisé en C avec une structure allouée.
 
 - **projettseitin**: algorithme de tseitin réalisé en langage Ocaml
+
+#Projet-et-applications-externe
+Projets et applications réalisées dans mon temps libre pour le plaisir d'apprendre et de s'améliorer! 
+
+- **TutoExcelVBA**: Création d'un tutoriel très basique de Excel réaliser via VBA (Macro)
