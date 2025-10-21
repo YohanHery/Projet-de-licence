@@ -19,4 +19,5 @@ Projets réalisé lors des études en licence
 # Projet-et-applications-externe
 Projets et applications réalisées dans mon temps libre pour le plaisir d'apprendre et de s'améliorer! 
 
+## Sommaire
 - **TutoExcelVBA**: Création d'un tutoriel très basique de Excel réaliser via VBA (Macro)
