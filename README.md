@@ -21,6 +21,7 @@ Projets et applications réalisées dans mon temps libre pour le plaisir d'appre
 
 ## Sommaire
 - **TutoExcelVBA**: Création d'un tutoriel très basique de Excel réaliser via VBA (Macro)
+- **Ingénierie et Sécurisation d'une Infrastructure Réseau Segmentée** (Partie 1): Réalisation d'un réseau segmenté avec une administration et des tests de sécurité
 
 # Expériences
 ## Participation aux CTF et Sites de Challenges :
