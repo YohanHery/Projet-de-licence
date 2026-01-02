@@ -4,10 +4,10 @@ Projets réalisé lors des études en licence
 ## Sommaire
 -L2 **BiblioWeb**: est un projet qui consiste à mettre à disposition un site internet pour une bibliothèque avec différentes fonctions 
                                         
-                                        -> création, modification, gestion de comptes
-                                        -> création, modification, gestion d'annonces de livres
-                                        -> recherche et tri via différentes informations
-                                        -> liste de réservation, gestion de stocks
+                     -> création, modification, gestion de comptes
+                     -> création, modification, gestion d'annonces de livres
+                     -> recherche et tri via différentes informations
+                     -> liste de réservation, gestion de stocks
 -L2 **funpolyproj**: est un projet qui contient un ensemble d'algorithmes et de méthode de calculs sur des polynomes comme l'algorithme de Karatsuba
 
 -L2 **projet_occ**: est un projet réalisé en C, permet de compter de manière exclusive le nombres d'occurences d'un mot entre des fichiers
@@ -26,9 +26,9 @@ Projets réalisé lors des études en licence
 
 -L3 **projet_filter_picture**: Programme (daemon) en C qui permet à un client d'appliquer des filtres sur une image
                                           
-                                          -> réalisation à l'aide de threads et processus
-                                          -> utilisation de tubes et sémaphores
-                                          -> programme daemon
+                     -> réalisation à l'aide de threads et processus
+                     -> utilisation de tubes et sémaphores
+                     -> programme daemon
                                          
 *La source sera ajoutée après la fin des rendus*
 
