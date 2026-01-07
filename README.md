@@ -18,11 +18,8 @@ Projets réalisé lors des études en licence
 
 -L3 **projet_syllogisme**: (Ocaml) validation de syllogismes complexes à l'aide des diagrammes de Venn 
 
-*La source sera ajoutée après la fin des rendus*
 
 -L3 **projet_halmitonian_path**: Application (Python) qui permet de tester différents algorithmes de calculs de cycle hamiltonien 
-
-*La source sera ajoutée après la fin des rendus*
 
 -L3 **projet_filter_picture**: Programme (daemon) en C qui permet à un client d'appliquer des filtres sur une image
                                           
