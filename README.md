@@ -29,6 +29,8 @@ Projets réalisé lors des études en licence
                                          
 *La source sera ajoutée après la fin des rendus*
 
+-L3 **java_TP**: Travaux pratique réalisés en Java dans le cadre des études (Interface graphique présente à partir du TP 7)
+
 # Projet-et-applications-externe
 Projets et applications réalisées dans mon temps libre pour le plaisir d'apprendre et de s'améliorer! 
 
