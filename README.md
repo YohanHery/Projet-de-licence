@@ -38,7 +38,7 @@ Projets et applications réalisées dans mon temps libre pour le plaisir d'appre
 - **mylibgames**: un dossier ou je stock et vais ajouter tout les mini jeux en 2D sans                          complexité que je réalise dans mon temps libre pour développer des idées et                   essayer des choses
 - **TutoExcelVBA**: Création d'un tutoriel très basique de Excel réaliser via VBA (Macro)
 - **Ingénierie et Sécurisation d'une Infrastructure Réseau Segmentée** (Partie 1): Réalisation d'un réseau segmenté avec une administration et des tests de sécurité
-
+- **ATR Initial Airworthiness Dashboard** : Outil de pilotage de la certification (CS-25) développé sous Power BI & DAX, permettant le suivi de conformité de 25+ modifications techniques et la gestion proactive du backlog réglementaire.
 # Expériences
 ## Participation aux CTF et Sites de Challenges :
 - CTF Jeanned'Hack 2024 6/20ème participation seul contre équipes de 3
