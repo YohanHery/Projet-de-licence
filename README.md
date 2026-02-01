@@ -44,6 +44,7 @@ Projets et applications réalisées dans mon temps libre pour le plaisir d'appre
 - CTF Jeanned'Hack 2024 6/20ème participation seul contre équipes de 3
 - CTF Jeanned'Hack 2025 11/55 ème participation en duo contre équipes de 3 
 - CTF Jeanned'Hack 2026 xx/xx ème participation seul contre équipes de 5
+- CTF PascalCTF 2026 92/855 ème
 
 ## Sites de challenge type ROOTME/TRYHACKME/HACKTHEBOX
 -YohanImHere
